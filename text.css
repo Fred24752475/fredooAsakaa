@@ -1,0 +1,59 @@
+.video-title{
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  width: 550;
+  line-height: 40px;
+  margin-top: 0;
+
+}
+
+.video-stats{
+  font-family: Roboto;
+  font-size: 14px;
+  margin-top: 0;
+}
+
+.video-apple{
+font-family: Roboto;
+font-size: 30px;
+color: bisque;
+width: 550;
+line-height: 40px;
+margin-bottom: 200px;
+}
+
+
+.video-description-text{
+margin-top: 100px;
+font-size: 16px;
+background-color: red;
+color: white;
+text-align: center;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-left: 5px;
+text-decoration: underline;
+}
+
+.span-example{
+color: red;
+margin-left: 12px;
+}
+
+
+
+.span-example:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+
+.shop-link{
+cursor: pointer;
+}
+
+.shop-link:hover{
+text-decoration: underline;
+}
